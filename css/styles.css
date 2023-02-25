@@ -718,6 +718,7 @@ button {
     margin-right: 24px;
     margin-bottom: 64px;
   }
+}
 
 @media screen and (min-width: 1200px) {
   .team {
