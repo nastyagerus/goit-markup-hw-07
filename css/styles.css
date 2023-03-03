@@ -494,6 +494,11 @@ button {
 @media screen and (min-width: 768px) {
   .hero {
     max-width: 1199px;
+    background-image: linear-gradient(
+        rgba(46, 47, 66, 0.7),
+        rgba(46, 47, 66, 0.7)
+      ),
+      url(/images/);
   }
 
   .hero-title {
@@ -506,6 +511,11 @@ button {
 @media screen and (min-width: 1200px) {
   .hero {
     max-width: 1400px;
+    background-image: linear-gradient(
+        rgba(46, 47, 66, 0.7),
+        rgba(46, 47, 66, 0.7)
+      ),
+      url();
   }
 
   .hero-title {
