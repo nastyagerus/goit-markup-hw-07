@@ -449,7 +449,7 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/hero-image-mobile@1x.jpg);
+    url(./images/hero-image-mobile@1x.jpg);
   background-size: cover;
 }
 
@@ -461,7 +461,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero-image-mobile@2x.jpg);
+      url(./images/hero-image-mobile@2x.jpg);
   }
 }
 
@@ -510,7 +510,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero-image-tablet@1x.jpg);
+      url(./images/hero-image-tablet@1x.jpg);
   }
 
   @media (min-device-pixel-ratio: 2),
@@ -521,7 +521,7 @@ button {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(/images/hero-image-tablet@2x.jpg);
+        url(./images/hero-image-tablet@2x.jpg);
     }
   }
 
@@ -539,7 +539,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero-image-desc@1x.jpg);
+      url(./images/hero-image-desc@1x.jpg);
   }
 
   @media (min-device-pixel-ratio: 2),
@@ -550,7 +550,7 @@ button {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(/images/hero-image-desctop@2x.jpg);
+        url(./images/hero-image-desctop@2x.jpg);
     }
   }
 
